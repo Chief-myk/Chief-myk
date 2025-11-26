@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-"Hi, I'm Mayank, a passionate web and app developer with a strong foundation in Data Structures and Algorithms (DSA) using Java. I have mastered DSA and continuously refine my problem-solving skills. Currently, I'm pursuing my Computer Science Engineering degree while expanding my expertise in development and emerging technologies. Excited to take on new challenges and create impactful digital solutions!"
+"Hi, I'm Mayank — a driven Web & App Developer with a strong command of Data Structures & Algorithms in Java. I have a solid foundation in system design and continuously refine my problem-solving mindset through real-world projects. Alongside pursuing my Computer Science Engineering degree, I'm expanding my expertise in DevOps and Spring Boot to build scalable, production-ready systems.
+I’m passionate about creating meaningful digital products, eager to learn, and excited to take on impactful challenges that push me to grow and innovate."
 
 
 # 💻 Tech Stack:
