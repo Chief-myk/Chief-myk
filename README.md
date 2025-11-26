@@ -39,7 +39,9 @@ I’m passionate about creating meaningful digital products, eager to learn, and
 </div>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mayank Mittal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayankmittal.1306) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mayank Mittal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MayankMittal06) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mayank Mittal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankmittal1106@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MayankMittal1311)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankmittal1106@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-9990538802-blue?logo=iphone&logoColor=white)](tel:9990538802)
 
 
 ### 🔝 Top Contributed Repo
